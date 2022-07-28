@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/.net-A8B9CC?style=flat-square&logo=.net&logoColor=purple"/>
 </div>
 <br/>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 
