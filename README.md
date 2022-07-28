@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)
 <div align = "center">
   <h4> Tech Stack </h4>
    C++ ,MFC, QT Quick, C# , winform, WPF, Xamarin, MAUI<br/>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
 
 
