@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <div align = "center">
-  <h3>asdasdasd</h3><br/>
-  asdasdasdasd.<br/>
-  asdasdasdasd<br/>
   <br/>
   <h4> Tech Stack </h4>
    C++ ,MFC, QT Quick, C# , winform, WPF, Xamarin, MAUI<br/>
