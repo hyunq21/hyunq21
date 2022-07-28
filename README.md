@@ -4,12 +4,7 @@
   asdasdasdasd.<br/>
   asdasdasdasd<br/>
   asdasdasdsad<br/>
-  <br/>
-  ﹏﹏﹏﹏﹏﹏﹏
-  <br/>
-  <br/>
-  <h3> Tech Stack </h3>
-  <br/>
+  <h3> Tech Stack </h3><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C++&logoColor=white"/>
