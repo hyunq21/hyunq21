@@ -7,7 +7,12 @@
 
 - ![C#](https://img.shields.io/badge/C%23-444444?style=for-the-badge&logo=.NET)
   - winform, WPF, ![Xamarin](https://img.shields.io/badge/Xamarin-444444?style=for-the-badge&logo=Xamarin), MAUI
-  
+
+- IDEs
+  - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=for-the-badge&logo=VisualStudio)
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-444444?style=for-the-badge&logo=VisualStudioCode)
+  ![Qt Creator](https://img.shields.io/badge/Qt_Creator-444444?style=for-the-badge&logo=Qt)
+
 - ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-444444?style=for-the-badge&logo=MicrosoftSQLServer)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444444?style=for-the-badge&logo=PostgreSQL)
 
