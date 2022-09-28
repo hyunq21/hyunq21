@@ -11,6 +11,7 @@
 
 - IDEs
   - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=for-the-badge&logo=VisualStudio)
+  ![JetBrains Rider](https://img.shields.io/badge/Rider-444444?style=for-the-badge&logo=Rider)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-444444?style=for-the-badge&logo=VisualStudioCode)
   ![Qt Creator](https://img.shields.io/badge/Qt_Creator-444444?style=for-the-badge&logo=Qt)
 
