@@ -2,9 +2,10 @@
 ### Tech Stack  
 - ![CMake](https://img.shields.io/badge/CMake-444444?style=for-the-badge&logo=CMake)
 
-- ![C++](https://img.shields.io/badge/C++-444444?style=for-the-badge&logo=C++)
-  - MFC, ![Qt](https://img.shields.io/badge/Qt-444444?style=for-the-badge&logo=Qt) Quick  
-- ![.NET](https://img.shields.io/badge/C_Sharp-444444?style=for-the-badge&logo=.NET)
+- ![C++](https://img.shields.io/badge/C++-444444?style=for-the-badge&logo=C%2B%2B)
+  - MFC, ![Qt](https://img.shields.io/badge/Qt_Quick-444444?style=for-the-badge&logo=Qt)  
+
+- ![C#](https://img.shields.io/badge/C%23-444444?style=for-the-badge&logo=.NET)
   - winform, WPF, ![Xamarin](https://img.shields.io/badge/Xamarin-444444?style=for-the-badge&logo=Xamarin), MAUI
   
 - ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-444444?style=for-the-badge&logo=MicrosoftSQLServer)
