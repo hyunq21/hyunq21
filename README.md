@@ -18,7 +18,8 @@
 ![GitLab](https://img.shields.io/badge/GitLab-444444?style=for-the-badge&logo=GitLab)
 
 - ![Slack](https://img.shields.io/badge/Slack-444444?style=for-the-badge&logo=Slack)
-![Jira Software](https://img.shields.io/badge/JiraSoftware-444444?style=for-the-badge&logo=Jiraoftware)
+![Jira Software](https://img.shields.io/badge/JiraSoftware-444444?style=for-the-badge&logo=JiraSoftware)
+![Confluence](https://img.shields.io/badge/Confluence-444444?style=for-the-badge&logo=Confluence)
 
 
 
