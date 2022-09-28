@@ -20,7 +20,8 @@
   - ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-444444?style=flat-square&logo=MicrosoftSQLServer)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444444?style=flat-square&logo=PostgreSQL)
 - ORM  
-  - ![Hasura](https://img.shields.io/badge/Hasura-444444?style=flat-square&logo=Hasura)
+  - ![Entity Framework](https://img.shields.io/badge/EntityFramework-444444?style=flat-square&logo=.NET)
+![Hasura](https://img.shields.io/badge/Hasura-444444?style=flat-square&logo=Hasura)
 ![Prisma](https://img.shields.io/badge/Prisma-444444?style=flat-square&logo=Prisma)
 - Software Configuration Management  
   - ![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=Git)
