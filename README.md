@@ -15,10 +15,11 @@
     ![WPF](https://img.shields.io/badge/WPF-444444?style=flat-square&logo=.Net)
     ![Xamarin](https://img.shields.io/badge/Xamarin-444444?style=flat-square&logo=Xamarin)
     ![MAUI](https://img.shields.io/badge/MAUI-444444?style=flat-square&logo=.Net)
+    ![Nuget](https://img.shields.io/badge/Nuget-444444?style=flat-square&logo=nuget&logoColor=004081)
 - IDEs
-  - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=flat-square&logo=VisualStudio&logoColor=C184C7)
+  - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=flat-square&logo=VisualStudio&logoColor=803CBE)
   ![JetBrains Rider](https://img.shields.io/badge/Rider-444444?style=flat-square&logo=Rider&logoColor=000000)
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-444444?style=flat-square&logo=VisualStudioCode&logoColor=62AAF2)
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-444444?style=flat-square&logo=VisualStudioCode&logoColor=40AAF2)
   ![Qt Creator](https://img.shields.io/badge/Qt_Creator-444444?style=flat-square&logo=Qt)
 - DB  
   - ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-444444?style=flat-square&logo=MicrosoftSQLServer&logoColor=FF0000)
