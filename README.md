@@ -34,7 +34,7 @@
   - ![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-444444?style=flat-square&logo=GitHub&logoColor=000000)
 ![GitLab](https://img.shields.io/badge/GitLab-444444?style=flat-square&logo=GitLab)
-![svn](https://img.shields.io/badge/svn-444444?style=flat-square&logo=svn)
+![svn](https://img.shields.io/badge/svn-444444?style=flat-square&logo=Subversion)
 - Collaboration Tools  
   - ![Slack](https://img.shields.io/badge/Slack-444444?style=flat-square&logo=Slack)
 ![Jira Software](https://img.shields.io/badge/JiraSoftware-444444?style=flat-square&logo=JiraSoftware&logoColor=3884FF)
