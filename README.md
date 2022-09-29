@@ -16,6 +16,8 @@
     ![Xamarin](https://img.shields.io/badge/Xamarin-444444?style=flat-square&logo=Xamarin)
     ![MAUI](https://img.shields.io/badge/MAUI-444444?style=flat-square&logo=.Net)
     ![Nuget](https://img.shields.io/badge/Nuget-444444?style=flat-square&logo=nuget&logoColor=004081)
+- Unit Test
+  - ![Google Test](https://img.shields.io/badge/Google_Test-444444?style=flat-square&logo=Google)
 - IDEs
   - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=flat-square&logo=VisualStudio&logoColor=803CBE)
   ![JetBrains Rider](https://img.shields.io/badge/Rider-444444?style=flat-square&logo=Rider&logoColor=000000)
@@ -38,6 +40,8 @@
 ![Jira Software](https://img.shields.io/badge/JiraSoftware-444444?style=flat-square&logo=JiraSoftware&logoColor=3884FF)
 ![Confluence](https://img.shields.io/badge/Confluence-444444?style=flat-square&logo=Confluence&logoColor=3884FF)
 
+- Etc..
+  - ![Google AdMob](https://img.shields.io/badge/Google_AdMob-444444?style=flat-square&logo=GoogleAdMob)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
