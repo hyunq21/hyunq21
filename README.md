@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)
 
 ### Company Career
-
+- Secondary battery charging/discharging EQ company
+  - [C++/MFC] serial/socket communication to control charging/discharging
+  - [C#/WPF] charging/discharging
 
 ---
 ### Tech Stack
@@ -16,32 +18,25 @@
     ![Xamarin](https://img.shields.io/badge/Xamarin-444444?style=flat-square&logo=Xamarin)
     ![MAUI](https://img.shields.io/badge/MAUI-444444?style=flat-square&logo=.Net)
     ![Nuget](https://img.shields.io/badge/Nuget-444444?style=flat-square&logo=nuget&logoColor=004081)
-- Unit Test
-  - ![Google Test](https://img.shields.io/badge/Google_Test-444444?style=flat-square&logo=Google)
-- IDEs
-  - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=flat-square&logo=VisualStudio&logoColor=803CBE)
-  ![JetBrains Rider](https://img.shields.io/badge/Rider-444444?style=flat-square&logo=Rider&logoColor=000000)
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-444444?style=flat-square&logo=VisualStudioCode&logoColor=40AAF2)
-  ![Qt Creator](https://img.shields.io/badge/Qt_Creator-444444?style=flat-square&logo=Qt)
-- DB  
-  - ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-444444?style=flat-square&logo=MicrosoftSQLServer&logoColor=FF0000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444444?style=flat-square&logo=PostgreSQL)
-- ORM  
-  - ![Entity Framework](https://img.shields.io/badge/EntityFramework-444444?style=flat-square&logo=.NET)
-![Hasura](https://img.shields.io/badge/Hasura-444444?style=flat-square&logo=Hasura)
-![Prisma](https://img.shields.io/badge/Prisma-444444?style=flat-square&logo=Prisma&logoColor=000000)
-- Software Configuration Management  
-  - ![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=Git)
-![GitHub](https://img.shields.io/badge/GitHub-444444?style=flat-square&logo=GitHub&logoColor=000000)
-![GitLab](https://img.shields.io/badge/GitLab-444444?style=flat-square&logo=GitLab)
-![svn](https://img.shields.io/badge/svn-444444?style=flat-square&logo=Subversion)
-- Collaboration Tools  
-  - ![Slack](https://img.shields.io/badge/Slack-444444?style=flat-square&logo=Slack)
-![Jira Software](https://img.shields.io/badge/JiraSoftware-444444?style=flat-square&logo=JiraSoftware&logoColor=3884FF)
-![Confluence](https://img.shields.io/badge/Confluence-444444?style=flat-square&logo=Confluence&logoColor=3884FF)
-
-- Etc..
-  - ![Google AdMob](https://img.shields.io/badge/Google_AdMob-444444?style=flat-square&logo=GoogleAdMob)
+- Unit Test ![Google Test](https://img.shields.io/badge/Google_Test-444444?style=flat-square&logo=Google)
+- IDEs ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=flat-square&logo=VisualStudio&logoColor=803CBE)
+       ![JetBrains Rider](https://img.shields.io/badge/Rider-444444?style=flat-square&logo=Rider&logoColor=000000)
+       ![Visual Studio Code](https://img.shields.io/badge/VSCode-444444?style=flat-square&logo=VisualStudioCode&logoColor=40AAF2)
+       ![Qt Creator](https://img.shields.io/badge/Qt_Creator-444444?style=flat-square&logo=Qt)
+- DB ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-444444?style=flat-square&logo=MicrosoftSQLServer&logoColor=FF0000)
+     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444444?style=flat-square&logo=PostgreSQL)
+- ORM ![Entity Framework](https://img.shields.io/badge/EntityFramework-444444?style=flat-square&logo=.NET)
+      ![Hasura](https://img.shields.io/badge/Hasura-444444?style=flat-square&logo=Hasura)
+      ![Prisma](https://img.shields.io/badge/Prisma-444444?style=flat-square&logo=Prisma&logoColor=000000)
+- Software Configuration Management ![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=Git)
+                                    ![GitHub](https://img.shields.io/badge/GitHub-444444?style=flat-square&logo=GitHub&logoColor=000000)
+                                    ![GitLab](https://img.shields.io/badge/GitLab-444444?style=flat-square&logo=GitLab)
+                                    ![svn](https://img.shields.io/badge/svn-444444?style=flat-square&logo=Subversion)
+- Collaboration Tools ![Slack](https://img.shields.io/badge/Slack-444444?style=flat-square&logo=Slack)
+                      ![Jira Software](https://img.shields.io/badge/JiraSoftware-444444?style=flat-square&logo=JiraSoftware&logoColor=3884FF)
+                      ![Confluence](https://img.shields.io/badge/Confluence-444444?style=flat-square&logo=Confluence&logoColor=3884FF)
+                      ![Notion](https://img.shields.io/badge/Notion-444444?style=flat-square&logo=Notion&logoColor=000000)
+- Etc ![Google AdMob](https://img.shields.io/badge/Google_AdMob-444444?style=flat-square&logo=GoogleAdMob)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
