@@ -12,26 +12,26 @@
   - ![C#](https://img.shields.io/badge/C%23-444444?style=flat-square&logo=.NET)
     - Winform, WPF, ![Xamarin](https://img.shields.io/badge/Xamarin-444444?style=flat-square&logo=Xamarin), MAUI
 - IDEs
-  - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=flat-square&logo=VisualStudio)
-  ![JetBrains Rider](https://img.shields.io/badge/Rider-444444?style=flat-square&logo=Rider)
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-444444?style=flat-square&logo=VisualStudioCode)
+  - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=flat-square&logo=VisualStudio&logoColor=C184C7)
+  ![JetBrains Rider](https://img.shields.io/badge/Rider-444444?style=flat-square&logo=Rider&logoColor=000000)
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-444444?style=flat-square&logo=VisualStudioCode&logoColor=62AAF2)
   ![Qt Creator](https://img.shields.io/badge/Qt_Creator-444444?style=flat-square&logo=Qt)
 - DB  
-  - ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-444444?style=flat-square&logo=MicrosoftSQLServer)
+  - ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-444444?style=flat-square&logo=MicrosoftSQLServer&logoColor=FF0000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444444?style=flat-square&logo=PostgreSQL)
 - ORM  
   - ![Entity Framework](https://img.shields.io/badge/EntityFramework-444444?style=flat-square&logo=.NET)
 ![Hasura](https://img.shields.io/badge/Hasura-444444?style=flat-square&logo=Hasura)
-![Prisma](https://img.shields.io/badge/Prisma-444444?style=flat-square&logo=Prisma)
+![Prisma](https://img.shields.io/badge/Prisma-444444?style=flat-square&logo=Prisma&logoColor=000000)
 - Software Configuration Management  
   - ![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=Git)
-![GitHub](https://img.shields.io/badge/GitHub-444444?style=flat-square&logo=GitHub)
+![GitHub](https://img.shields.io/badge/GitHub-444444?style=flat-square&logo=GitHub&logoColor=000000)
 ![GitLab](https://img.shields.io/badge/GitLab-444444?style=flat-square&logo=GitLab)
 ![svn](https://img.shields.io/badge/svn-444444?style=flat-square&logo=svn)
 - Collaboration Tools  
   - ![Slack](https://img.shields.io/badge/Slack-444444?style=flat-square&logo=Slack)
-![Jira Software](https://img.shields.io/badge/JiraSoftware-444444?style=flat-square&logo=JiraSoftware)
-![Confluence](https://img.shields.io/badge/Confluence-444444?style=flat-square&logo=Confluence)
+![Jira Software](https://img.shields.io/badge/JiraSoftware-444444?style=flat-square&logo=JiraSoftware&logoColor=3884FF)
+![Confluence](https://img.shields.io/badge/Confluence-444444?style=flat-square&logo=Confluence&logoColor=3884FF)
 
 
 
