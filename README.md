@@ -8,9 +8,13 @@
 - ![CMake](https://img.shields.io/badge/CMake-444444?style=flat-square&logo=CMake)
 - Language  
   - ![C++](https://img.shields.io/badge/C++-444444?style=flat-square&logo=C%2B%2B) 
-    - MFC, ![Qt](https://img.shields.io/badge/Qt_Quick-444444?style=flat-square&logo=Qt) 
-  - ![C#](https://img.shields.io/badge/C%23-444444?style=flat-square&logo=.NET)
-    - Winform, WPF, ![Xamarin](https://img.shields.io/badge/Xamarin-444444?style=flat-square&logo=Xamarin), MAUI
+    - ![MFC](https://img.shields.io/badge/MFC-444444?style=flat-square&logo=)
+    ![Qt](https://img.shields.io/badge/Qt_Quick-444444?style=flat-square&logo=Qt) 
+  - ![C#](https://img.shields.io/badge/C%23-444444?style=flat-square&logo=Csharp)
+    - ![Winform](https://img.shields.io/badge/Winform-444444?style=flat-square&logo=.Net)
+    ![WPF](https://img.shields.io/badge/WPF-444444?style=flat-square&logo=.Net)
+    ![Xamarin](https://img.shields.io/badge/Xamarin-444444?style=flat-square&logo=Xamarin)
+    ![MAUI](https://img.shields.io/badge/MAUI-444444?style=flat-square&logo=.Net)
 - IDEs
   - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=flat-square&logo=VisualStudio&logoColor=C184C7)
   ![JetBrains Rider](https://img.shields.io/badge/Rider-444444?style=flat-square&logo=Rider&logoColor=000000)
