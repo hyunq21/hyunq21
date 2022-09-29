@@ -16,13 +16,7 @@
 ![Winform](https://img.shields.io/badge/Winform-444444?style=flat-square&logo=.Net)
 ![WPF](https://img.shields.io/badge/WPF-444444?style=flat-square&logo=.Net)
 ![Xamarin](https://img.shields.io/badge/Xamarin-444444?style=flat-square&logo=Xamarin)
-![MAUI](https://img.shields.io/badge/MAUI-444444?style=flat-square&logo=.Net) 
-- Pakage Manager  
-![Nuget](https://img.shields.io/badge/Nuget-444444?style=flat-square&logo=nuget&logoColor=004081)
-- Build Management System  
-![CMake](https://img.shields.io/badge/CMake-444444?style=flat-square&logo=CMake)
-- Unit Test  
-![Google Test](https://img.shields.io/badge/Google_Test-444444?style=flat-square&logo=Google)
+![MAUI](https://img.shields.io/badge/MAUI-444444?style=flat-square&logo=.Net)
 - IDE  
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-444444?style=flat-square&logo=VisualStudio&logoColor=803CBE)
 ![JetBrains Rider](https://img.shields.io/badge/Rider-444444?style=flat-square&logo=Rider&logoColor=000000)
@@ -35,17 +29,17 @@
 ![Entity Framework](https://img.shields.io/badge/EntityFramework-444444?style=flat-square&logo=.NET)
 ![Hasura](https://img.shields.io/badge/Hasura-444444?style=flat-square&logo=Hasura)
 ![Prisma](https://img.shields.io/badge/Prisma-444444?style=flat-square&logo=Prisma&logoColor=000000)
+- Build Management System  
+![CMake](https://img.shields.io/badge/CMake-444444?style=flat-square&logo=CMake)
+- Unit Test  
+![Google Test](https://img.shields.io/badge/Google_Test-444444?style=flat-square&logo=Google)
 - Software Configuration Management  
 ![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-444444?style=flat-square&logo=GitHub&logoColor=000000)
 ![GitLab](https://img.shields.io/badge/GitLab-444444?style=flat-square&logo=GitLab)
 ![svn](https://img.shields.io/badge/svn-444444?style=flat-square&logo=Subversion)
-- Collaboration Tools  
-![Slack](https://img.shields.io/badge/Slack-444444?style=flat-square&logo=Slack)
-![Jira Software](https://img.shields.io/badge/JiraSoftware-444444?style=flat-square&logo=JiraSoftware&logoColor=3884FF)
-![Confluence](https://img.shields.io/badge/Confluence-444444?style=flat-square&logo=Confluence&logoColor=3884FF)
-![Notion](https://img.shields.io/badge/Notion-444444?style=flat-square&logo=Notion&logoColor=000000)
 - Etc  
+![Nuget](https://img.shields.io/badge/Nuget-444444?style=flat-square&logo=nuget&logoColor=004081)
 ![Google AdMob](https://img.shields.io/badge/Google_AdMob-444444?style=flat-square&logo=GoogleAdMob)
 
 
