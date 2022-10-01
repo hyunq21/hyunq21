@@ -48,5 +48,4 @@
 ![Nuget](https://img.shields.io/badge/Nuget-444444?style=flat-square&logo=nuget&logoColor=004081)
 ![Google AdMob](https://img.shields.io/badge/Google_AdMob-444444?style=flat-square&logo=GoogleAdMob)
 
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
