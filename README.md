@@ -3,7 +3,12 @@
 ### Company Career
 - Secondary battery charging/discharging EQ company
   - [C++/MFC] serial/socket communication to control charging/discharging
-  - [C#/WPF] charging/discharging
+  - [C#/WPF] Developing a charge/discharge recipe editor
+- Semiconductor pattern overlay measurement equipment company
+  - [C++/MFC] Overlay EQ SW Development
+  - [C#/WPF] Overlay EQ Data Chart Tool Development
+  - [C#/WPF] Overlay Recipe Editor Development
+  - [Modern C++/Qt Quick] Equipment data modeling tool development in progress
 
 ---
 ### Tech Stack
