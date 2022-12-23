@@ -49,4 +49,11 @@
 ![Nuget](https://img.shields.io/badge/Nuget-444444?style=flat-square&logo=nuget&logoColor=004081)
 ![Google AdMob](https://img.shields.io/badge/Google_AdMob-444444?style=flat-square&logo=GoogleAdMob)
 
+
+![REST](https://img.shields.io/badge/REST-444444?style=flat-square&logo=REST)
+![GraphQL](https://img.shields.io/badge/GraphQL-444444?style=flat-square&logo=GraphQL)
+![gPRC](https://img.shields.io/badge/gPRC-444444?style=flat-square&logo=gPRC)
+![Protocol Buffer](https://img.shields.io/badge/Protocol_Buffer-444444?style=flat-square&logo=ProtocolBuffer)
+![FlatBuffers](https://img.shields.io/badge/FlatBuffers-444444?style=flat-square&logo=FlatBuffers)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
